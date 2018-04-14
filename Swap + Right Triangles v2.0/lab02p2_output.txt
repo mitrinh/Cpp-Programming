@@ -1,0 +1,15 @@
+Script started on 2018-01-25 10:18:30-0800
+]0;mptrinh@abbott:~/cs256/cs256_lab02[01;32mmptrinh@abbott[01;34m ~/cs256/cs256_lab02 $[00m ./lab02p2
+./lab02p2 <triangle file name>
+]0;mptrinh@abbott:~/cs256/cs256_lab02[01;32mmptrinh@abbott[01;34m ~/cs256/cs256_lab02 $[00m ./lab02p2 /user/thuang/cs256/foo
+Unable to read file: /user/thuang/cs256/foo
+]0;mptrinh@abbott:~/cs256/cs256_lab02[01;32mmptrinh@abbott[01;34m ~/cs256/cs256_lab02 $[00m ./lab02p2 /user/thuang/cs256/right.dat
+Right triangle: a=3 b=4 c = 5
+Right triangle: a=34.5 b=24.8 c = 42.4887
+Right triangle: a=9 b=12 c = 15
+Right triangle: a=56.99 b=4.78 c = 57.1901
+Right triangle: a=256.7 b=512.5 c = 573.194
+]0;mptrinh@abbott:~/cs256/cs256_lab02[01;32mmptrinh@abbott[01;34m ~/cs256/cs256_lab02 $[00m exit
+exit
+
+Script done on 2018-01-25 10:19:02-0800

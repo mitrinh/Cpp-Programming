@@ -1,0 +1,40 @@
+Script started on 2018-01-21 02:09:59-0800
+]0;mptrinh@abbott:~/cs256/cs256_proj01[01;32mmptrinh@abbott[01;34m ~/cs256/cs256_proj01 $[00m cat students.dat
+John Doe 123456789 A
+Bob Smith 598765432 B
+Bill Jones 898745792 C
+George Roberts 128920740 D
+]0;mptrinh@abbott:~/cs256/cs256_proj01[01;32mmptrinh@abbott[01;34m ~/cs256/cs256_proj01 $[00m ./proj01
+./proj01 <input file> find <id>
+./proj01 <input file> list
+]0;mptrinh@abbott:~/cs256/cs256_proj01[01;32mmptrinh@abbott[01;34m ~/cs256/cs256_proj01 $[00m ./proj01 students.dat list
+ID: 123456789
+First Name: John
+Last Name: Doe
+Grade: A
+
+ID: 598765432
+First Name: Bob
+Last Name: Smith
+Grade: B
+
+ID: 898745792
+First Name: Bill
+Last Name: Jones
+Grade: C
+
+ID: 128920740
+First Name: George
+Last Name: Roberts
+Grade: D
+
+]0;mptrinh@abbott:~/cs256/cs256_proj01[01;32mmptrinh@abbott[01;34m ~/cs256/cs256_proj01 $[00m ./proj01 students.dat find 9[K898745792
+ID: 898745792
+First Name: Bill
+Last Name: Jones
+Grade: C
+
+]0;mptrinh@abbott:~/cs256/cs256_proj01[01;32mmptrinh@abbott[01;34m ~/cs256/cs256_proj01 $[00m exit
+exit
+
+Script done on 2018-01-21 02:10:51-0800

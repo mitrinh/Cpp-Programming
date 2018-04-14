@@ -1,0 +1,44 @@
+Script started on 2018-02-15 09:22:27-0800
+]0;mptrinh@costello:~/cs256/cs256_lab03[01;32mmptrinh@costello[01;34m ~/cs256/cs256_lab03 $[00m ./lab03
+INTEGER ARRAY
+34
+23
+56
+89
+99
+100
+345
+-19
+-78
+56
+sum = -1903504431
+
+FLOAT ARRAY
+3.1415
+2.3457
+21.99
+99.08
+78.45
+25.198
+228.7
+0.25
+1.45
+0.33
+sum = 460.935
+
+STRING ARRAY
+Bob
+John
+Ann
+Christian
+Rich
+Katie
+Danna
+Andrea
+Valerie
+Debra
+sum = BobJohnAnnChristianRichKatieDannaAndreaValerieDebra
+]0;mptrinh@costello:~/cs256/cs256_lab03[01;32mmptrinh@costello[01;34m ~/cs256/cs256_lab03 $[00m exit
+exit
+
+Script done on 2018-02-15 09:22:35-0800

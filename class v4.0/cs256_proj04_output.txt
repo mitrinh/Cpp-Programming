@@ -1,0 +1,55 @@
+Script started on 2018-03-05 00:46:18-0800
+]0;mptrinh@costello:~/cs256/cs256_proj04[01;32mmptrinh@costello[01;34m ~/cs256/cs256_proj04 $[00m g++ -@all[K[K[K[KWall -o proj04 proj04.cpp course.cpp student.cpp FullTime.cpp PartTime.cpp
+]0;mptrinh@costello:~/cs256/cs256_proj04[01;32mmptrinh@costello[01;34m ~/cs256/cs256_proj04 $[00m ./proj04
+./proj03 <input file> find <id>
+./proj03 <input file> list
+]0;mptrinh@costello:~/cs256/cs256_proj04[01;32mmptrinh@costello[01;34m ~/cs256/cs256_proj04 $[00m cat students.dat
+John Doe 123456789 A FULLTIME
+Bob Smith 598765432 B FULLTIME
+Bill Jones 898745792 C PARTTIME
+George Roberts 128920740 D FULLTIME]0;mptrinh@costello:~/cs256/cs256_proj04[01;32mmptrinh@costello[01;34m ~/cs256/cs256_proj04 $[00m ./proj04 f[Kstudents.dat find
+./proj03 <input file> find <id>
+./proj03 <input file> list
+]0;mptrinh@costello:~/cs256/cs256_proj04[01;32mmptrinh@costello[01;34m ~/cs256/cs256_proj04 $[00m ./proj04 students.dat list
+ID: 123456789
+First Name: John
+Last Name: Doe
+Grade: A
+Status: FULLTIME
+
+ID: 598765432
+First Name: Bob
+Last Name: Smith
+Grade: B
+Status: FULLTIME
+
+ID: 898745792
+First Name: Bill
+Last Name: Jones
+Grade: C
+Status: PARTTIME
+
+ID: 128920740
+First Name: George
+Last Name: Roberts
+Grade: D
+Status: FULLTIME
+
+]0;mptrinh@costello:~/cs256/cs256_proj04[01;32mmptrinh@costello[01;34m ~/cs256/cs256_proj04 $[00m ./proj04 students.dat find 598765432
+ID: 598765432
+First Name: Bob
+Last Name: Smith
+Grade: B
+Status: FULLTIME
+]0;mptrinh@costello:~/cs256/cs256_proj04[01;32mmptrinh@costello[01;34m ~/cs256/cs256_proj04 $[00m ./proj04 students.dat find 898745792
+ID: 898745792
+First Name: Bill
+Last Name: Jones
+Grade: C
+Status: PARTTIME
+]0;mptrinh@costello:~/cs256/cs256_proj04[01;32mmptrinh@costello[01;34m ~/cs256/cs256_proj04 $[00m ./proj04 students.dat find 163212349
+ID 163212349 not found.
+]0;mptrinh@costello:~/cs256/cs256_proj04[01;32mmptrinh@costello[01;34m ~/cs256/cs256_proj04 $[00m exit
+exit
+
+Script done on 2018-03-05 00:48:02-0800

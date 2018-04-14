@@ -1,0 +1,18 @@
+Script started on 2018-01-11 08:29:51-0800
+]0;mptrinh@abbott:~/cs256/cs256_lab01[01;32mmptrinh@abbott[01;34m ~/cs256/cs256_lab01 $[00m ./labo[K01p1
+Enter amount for item 1
+23
+Enter amount for item 2
+76
+
+Item 1: $  23.00
+Item 2: $  76.00
+
+Sub Total: $  99.00
+Tax: $   8.17
+Total: $ 107.17
+]0;mptrinh@abbott:~/cs256/cs256_lab01[01;32mmptrinh@abbott[01;34m ~/cs256/cs256_lab01 $[00m exit script
+exit
+bash: exit: script: numeric argument required
+
+Script done on 2018-01-11 08:30:19-0800
